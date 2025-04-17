@@ -1,0 +1,10 @@
+[
+    {
+      "objects": ["car", "street", "line", "sky"],
+      "relationships": [
+        [0, "on", 1],
+        [2, "on", 1],
+        [3, "above", 1]
+      ]
+    }
+]
